@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Numb Little Bug",
+  "base_artist": "Em Beihold",
+  "createdAt": "2025-12-19T13:34:59.975075Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Numb Little Bug",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/01_Numb_Little_Bug_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Numb Little Bug",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/02_Numb_Little_Bug_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Numb Little Bug",
+      "artist": "Our Last Night",
+      "has_synced": true,
+      "path": "select/03_Numb_Little_Bug_Our_Last_Night.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Numb Little Bug",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/04_Numb_Little_Bug_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Numb Little Bug",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/05_Numb_Little_Bug_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Numb Little Bug",
+      "artist": "Video • Em Beihold",
+      "has_synced": true,
+      "path": "select/06_Numb_Little_Bug_Video_•_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Numb Little Bug",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/07_Numb_Little_Bug_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Numb Little Bug (Piano Version)",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/08_Numb_Little_Bug_(Piano_Version)_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Numb Little Bug",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/09_Numb_Little_Bug_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Em Beihold - Numb Little Bug",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/10_Em_Beihold_-_Numb_Little_Bug_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Numb Little Bug",
+      "artist": "Caleb Hyles",
+      "has_synced": false,
+      "path": "select/11_Numb_Little_Bug_Caleb_Hyles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Numb Little Bug (Piano Version Video)",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/12_Numb_Little_Bug_(Piano_Version_Video)_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Em Beihold - Numb Little Bug (Piano Version Video)",
+      "artist": "Em Beihold",
+      "has_synced": true,
+      "path": "select/13_Em_Beihold_-_Numb_Little_Bug_(Piano_Version_Video)_Em_Beihold.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Numb Little Bug",
+      "artist": "Em Beihold",
+      "has_synced": false,
+      "path": "select/pl_01_Numb_Little_Bug_Em_Beihold.txt"
+    }
+  ]
+}
